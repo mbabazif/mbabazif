@@ -11,6 +11,9 @@ Beyond my technical prowess, I excel in communication and problem-solving. I pos
 In essence, although my journey began at an entry-level, my aspirations and commitment to the realm of data analytics transcend entry-level expectations. I am here to make a substantial impact through the captivating world of data-driven insights.
 
 🌍  I'm based in Kigali, Rwanda
+
 ✉️  You can contact me at mbabaziflorence07@gmail.com
+
 🧠  I am a Data Scientist
+
 🤝  I'm open to collaborating on Advanced Excel, SQL, Power BI, and Supervised ML Projects
